@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { background: #0b1220; color: #e2e8f0; font-family: ui-sans-system, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+::selection { background: #38bdf8; color: #0b1220; }
